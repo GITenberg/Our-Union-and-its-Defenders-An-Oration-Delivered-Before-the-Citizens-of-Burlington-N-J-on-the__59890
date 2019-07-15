@@ -1,11 +1,16 @@
 _repo: Our-Union-and-its-Defenders-An-Oration-Delivered-Before-the-Citizens-of-Burlington-N-J-on-the__59890
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59890-h/images/cover.jpg
 creator:
   author:
     agent_name: Pugh, J. Howard
     gutenberg_agent_id: '50679'
     url: http://www.gutenberg.org/2009/agents/50679
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59890#Our-Union-and-its-Defenders-An-Oration-Delivered-Before-the-Citizens-of-Burlington-N-J-on-the_
 gutenberg_issued: '2019-07-10'
 gutenberg_type: Text
 identifiers:
